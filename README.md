@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with machine learning, enhancing algorithm, backend development (╥﹏╥)
 - 💬 Ask me about UI/UX, Frontend Development, Mobile Development ๋࣭ ⭑⚝
 - 📫 How to reach me: facebook.com/paulinereginaobispo, linkedin.com/paulineregina ✧˖°
-- 😄 Pronouns: she/her ;༊
+- 😄 Pronouns: she/her ⋆౨ৎ˚⟡˖ ࣪
 - ⚡ Fun fact: i love cats ! ≽ ^ • ⩊ • ^ ≼
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulineregina&label=Profile%20views&color=0e75b6&style=flat" alt="paulineregina" /> </p>
