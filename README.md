@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pauline Regina</h1>
+<h1 align="center">Hi 👋🩷, I'm Pauline Regina</h1>
 <h3 align="center">A passionate frontend developer / UI/UX designer from Philippines</h3>
 
 - 🔭 I’m currently working on Human Resource Information System ༘⋆✿
