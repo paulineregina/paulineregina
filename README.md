@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on fun projects (...anything) -`♡´-
 - 🤔 I’m looking for help with machine learning, enhancing algorithm, backend development (╥﹏╥)
 - 💬 Ask me about UI/UX, Frontend Development, Mobile Development ๋࣭ ⭑⚝
-- 📫 How to reach me: facebook.com/paulinereginaobispo, linkedin.com/paulineregina ✧˖°
+- 📫 How to reach me: facebook.com/paulinereginaobispo, linkedin.com/pauline-regina-obispo ✧˖°
 - 😄 Pronouns: she/her ⋆౨ৎ˚⟡˖ ࣪
 - ⚡ Fun fact: i love cats ! ≽ ^ • ⩊ • ^ ≼
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jaeinax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaeinax" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/paulineregina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulineregina" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pauline-regina-obispos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulineregina" height="30" width="40" /></a>
 <a href="https://fb.com/paulinereginaobispo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paulinereginaobispo" height="30" width="40" /></a>
 <a href="https://instagram.com/jaeinax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaeinax" height="30" width="40" /></a>
 </p>
