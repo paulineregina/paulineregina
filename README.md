@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Pauline Regina! 👋🩷</h1>
 <h3 align="center">A passionate frontend developer + UI/UX designer from Philippines</h3>
 
-- 🔭 I’m currently working on Human Resource Information System  ༘⋆✿
-- 🌱 I’m currently learning TALL stack ꩜ .ᐟ
+- 🔭 I’m currently working on Data Analysis Software UI + Thesis  ༘⋆✿
+- 🌱 I’m currently learning Machine Learning and Data Analytics ꩜ .ᐟ
 - 👯 I’m looking to collaborate on fun projects (...anything) -`♡´-
 - 🤔 I’m looking for help with machine learning, enhancing algorithm, backend development (╥﹏╥)
 - 💬 Ask me about UI/UX, Frontend Development, Mobile Development ๋࣭ ⭑⚝
