@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pauline Regina! 👋🩷</h1>
-<h3 align="center">A UI/UX designer from Philippines</h3>
+<h3 align="center">A UI/UX designer from the Philippines</h3>
 
 - 🔭 I’m currently working as a UI/UX Designer @ Wellevate Inc.  ༘⋆✿
 - 👯 I’m looking to collaborate on fun projects (...anything) -`♡´-
