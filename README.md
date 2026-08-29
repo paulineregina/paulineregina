@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Pauline Regina! 👋🩷</h1>
-<h3 align="center">A passionate frontend developer + UI/UX designer from Philippines</h3>
+<h3 align="center">A UI/UX designer from Philippines</h3>
 
-- 🔭 I’m currently working on Data Analysis Software UI + Thesis  ༘⋆✿
-- 🌱 I’m currently learning Machine Learning and Data Analytics ꩜ .ᐟ
+- 🔭 I’m currently working as a UI/UX Designer @ Wellevate Inc.  ༘⋆✿
 - 👯 I’m looking to collaborate on fun projects (...anything) -`♡´-
-- 🤔 I’m looking for help with machine learning, enhancing algorithm, backend development (╥﹏╥)
-- 💬 Ask me about UI/UX, Frontend Development, Mobile Development ๋࣭ ⭑⚝
+- 💬 Ask me about UI/UX Design ๋࣭ ⭑⚝
 - 📫 How to reach me: facebook.com/paulinereginaobispo, linkedin.com/pauline-regina-obispo ✧˖°
 - 😄 Pronouns: she/her ⋆౨ৎ˚⟡˖ ࣪
 - ⚡ Fun fact: i love cats ! ≽ ^ • ⩊ • ^ ≼
